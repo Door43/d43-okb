@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[okb:home|Door43 (okb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-okb|d43-okb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-okb/archive/master.zip|d43-okb.zip]]
+
+**Recent Changes**
+{{changes>ns = okb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/okb|Ethnologue data]]
+
